@@ -1,7 +1,7 @@
-# wk2_VBA_HW
-This repository contains only the VBA script and screenshots but not the excel file used in exectution of the stock analysis.
+# Overview
+***This repository contains only the VBA script and screenshots but not the excel file used in exectution of the stock analysis.***
 
-## The stock analysis sheet hold stock data for each organization every day, including:
+## The stock analysis sheet holds stock data for each organization every day, including:
 * ticker symbol
 * date
 * opening price
