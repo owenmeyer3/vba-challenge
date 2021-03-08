@@ -20,3 +20,12 @@
 * Finds the ticker symbol with the greatest percentage increase over the year and displays the ticker and percent change
 * Finds the ticker symbol with the greatest percentage decrease over the year and displays the ticker and percent change
 * Finds the ticker symbol with the greatest volume increase over the year and displays the ticker and percent change
+
+## 2014
+![](images/2014.png)
+
+## 2015
+![](images/2015.png)
+
+## 2016
+![](images/2016.png)
